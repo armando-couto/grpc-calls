@@ -11,3 +11,6 @@ Remova o comentário / comente as chamadas no arquivo client.go de acordo com a 
 
 ```go run greet_server/server.go```  
 ```go run greet_client/client.go```
+
+
+[Link de apoio!!!](https://levelup.gitconnected.com/grpc-how-to-make-effective-unary-calls-4c9fa68cd9d5)
