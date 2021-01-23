@@ -1,4 +1,4 @@
-# Simple G-RPC
+# G-RPC
 
 Este repositório demonstra o funcionamento de 4 tipos diferentes de APIs, ou seja, API unária, streaming do lado do servidor, streaming do lado do cliente e streaming bidirecional usando HTTP2, buffers de protocolo (proto3) na estrutura gRPC em Golang.
 
